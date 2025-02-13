@@ -18,8 +18,9 @@
 - This campaign claimed around million of military and civillian deaths
 - Napoleon prepared himself and the army extensively, by setting up magazines, supply points and studying the terrain.
 - He ommitted the conditions in his plans, which proved to be unlivable. His approach was to live off of the land which was a good strategy among well-connected and developed areas. 
-- Horses were one of the biggest problems. Lack of fodder caused the army to often travel by foot or go without essential supplies normally drawn by the horses. Muddy terrains impeded horse-drawn wagons and artillery.
+- Horses were one of the biggest problems. Lack of fodder caused the army to often travel by foot or go without essential supplies normally drawn by them. Muddy terrains impeded horse-drawn wagons and artillery.
 - Lack of water and food in the scarcely populated areas led to casualities, and exposed the troops to waterborne deseases from contaminated water.
+- The cold winter was another problem which decimated the troops and worsened the conditions.
 
 ### Elements of the map
 #### 1. The map  
@@ -27,11 +28,43 @@
 - The main difference between the flow map and Minard's map is the lack of arrows. While the shape of the red line indicates movement, we need to consult the description to understand its direction.The background of the graphic is a real map with names of places and drawn rivers. Places of battles are also shown.
 - The big label 'Moscou' points us to Russia and adjancent territories of Poland and Belarus.
 - A scale bar in the lower right of the map, indicating the map scale, completes the legend (the map measures distance based on the French league, which equals approximately 4 kilometers) 
-- Time dimension is missing - as readers we have a feeling of continuity and unstopabble force of the army. We can't tell that from the map that Napoleon stayed in Moskwa for a month, it seems as if the army went back stright away.
+- Time dimension is missing - as readers we have a feeling of continuity and unstopabble flow of the army. We can't tell from the map that Napoleon stayed in Moskwa for a month, it seems as if the army went back stright away.
+  - dates of historical battles would have solved some of the uncertainty
+
+### 2. The data - army flow
+- As per description on the map, the red-coloured line is the army going in to Moscow
+  - this army was mostly affected by hunger, illness, death caused in battle, hard conditions of the journey
+-  The black-coloured line is the army going back from Moscow
+   -  this part of the journey took part in winter and the cold caused many deaths
+   -  Battle of Tarutino bore many casualties
+   -  Battle of Maloyaroslaviets caused the army to choose a different path, leading to Smolensk
+   -  Many small attacks were taken towards the French army by the Russian army and the cossacks
+   -  Carrying food and other supplies became a great challenge, lack of grazing fields for the animals caused many of them to die or to be eaten by the soldiers. 
+   -  Lack of animals caused the army to abandon much of its artillery, weakening their defenses in further attacks.
+   -  The map doesn't clearly indicate the causes of death
+- In the original size, 1mm (milimeter) of the flow corresponded to 10,000 men.
+  - this is lost when the map is resized
+  - some labels with the volumes are provided next to the flow
+  - depiction of the exact volume of soldiers wasn't the purpose of the graphic, according to Minard
+  - The most important battles are not highligted so it's difficult to say what cause the army to shrink (lack of food, illness, battles?)
 
 
-- historical context
-- finish talking about the map itself (desc, good/bad stuff)
-- describe the flow (desc, good/bad stuff) 
-- temperature scale (desc, good/bad stuff)
-- 
+### 3. The temperature scale 
+- Connections of the temperature chart to the returning army (black colour) give us context for the weather conditions
+- We can infer that cold snaps at Dorogobouge, Smolensk, Botr, Studienska and Orscha halved the army size
+
+
+
+### 4. References and additional links
+
+https://blogs.loc.gov/maps/2021/06/19th-century-colonization-and-slavery-in-charles-minards-flow-maps/ 
+
+https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/
+
+https://ageofrevolution.org/200-object/flow-map-of-napoleons-invasion-of-russia/
+
+https://en.wikipedia.org/wiki/Charles_Joseph_Minard 
+
+https://en.wikipedia.org/wiki/French_invasion_of_Russia
+
+https://www.esri.com/content/dam/esrisites/en-us/esri-press/book-pages/sample-page/mapping-time-illustrated-minards-map-napoleons-russian-campaign-1812.pdf
